@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "@babel/core": "^7.12.3",
-    "@babel/types": "7.9.6",
+    "@babel/types": "7.12.13",
     "deepmerge": "^4.2.2",
     "i18next": "^19.8.3",
     "json-stable-stringify": "^1.0.1"
@@ -44,7 +44,7 @@
     "@babel/preset-react": "^7.12.5",
     "@babel/preset-typescript": "^7.12.1",
     "@rollup/plugin-babel": "^5.2.1",
-    "@rollup/plugin-node-resolve": "^10.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
     "@types/babel__core": "^7.1.12",
     "@types/fs-extra": "^9.0.3",
     "@types/jest": "^26.0.15",
@@ -56,7 +56,7 @@
     "@typescript-eslint/parser": "^4.7.0",
     "copyfiles": "^2.4.0",
     "eslint": "^7.13.0",
-    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-prettier": "^7.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.1.4",
     "fs-extra": "^9.0.1",
